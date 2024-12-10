@@ -1,0 +1,89 @@
+---
+layout: cv
+title: Jinjia Li's Resume
+---
+Full time student of the Brigham Young University - Idaho.
+
+<div id="webaddress">
+<a href=" ">li21001@byui.edu </a>
+| <a href=" ">(808)493-7522</a>
+| <a href="http://www.linkedin.com/in/jinjia-li">http://www.linkedin.com/in/jinjia-li</a>
+</div>
+
+<!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Education
+__Brigham Young University - Idaho__, Rexburg, ID `Expected 2024`
+
+- Bachelor of Science in Business Finance
+- Minor: Business Analytics & Financial Planning
+
+__Coursework:__
+
+Intermediate Statistics, Advanced Financial Management, Financial Planning, Advanced Financial Modeling
+
+__Grant & Honor__:
+
+- Secured a $13,414 grant from Brigham Young University-Idaho, distributed over two and a half years.
+- Led a team to third place in a school-wide competition by identifying and resolving a student problem, showcasing strong project management and problem-solving abilities. 
+
+
+## Work History
+
+### Data Science Project Manager
+
+__Brigham Young University - Idaho__, Rexburg, Idaho `April 2024 - Present`
+
+- Enhanced decision-making and operational efficiency by analyzing and visualizing data across over 18 school departments using Power BI, and creating customized templates for improved data accessibility.
+- Troubleshot and resolved Power BI issues daily, personalizing solutions to meet specific departmental requirements, thereby ensuring continuous operational effectiveness and user satisfaction.
+- Managed the overall team workload by assigning projects based on complexity and team members' strengths, ensuring balanced distribution and optimal performance.
+
+
+### Finance Intern
+
+__The Church of Jesus Christ of Latter-day Saints Meetinghouse Facilities Department__, Salt Lake City  `Jan 2024 – Apr 2024`
+
+- Managed a high volume of work orders, conducting thorough audits of an average of 200 orders each day to uphold financial integrity and regulatory compliance.
+- Collaborated closely with team members, vendors, and category managers, employing effective communication strategies to resolve inquiries and issues effectively within accounts payable and work order processing workflows.
+
+### Spreadsheet Analysis Teacher Assistant 
+
+__Brigham Young University - Idaho__, Rexburg, Idaho `Jul 2023 – Dec 2023`
+
+- Graded over 1,000 individually customized excel projects which included Pivot Tables, VLOOKUP, VBA code, SUMIFS, advanced graphs, IF statements, and 50 + more functions and formulas.
+- Implemented a reliable grading system that not only consistently met deadlines but also offered students accurate insights, thereby contributing to a conducive atmosphere for continuous improvement. 
+
+
+
+
+## Service Experience
+
+### Student Mentor
+
+__Heber J. Grand__, Rexburg, Idaho `Aug 2022 – Dec 2022`
+
+- Provided one-on-one support to two freshmen student help students adapting to college life and ensuring a smooth transition.
+- Delivered tailored guidance and resources, ensuring mentees accomplished grades of 70% or higher.
+- Engaged in weekly meetings and exchanges with fellow mentors, contributing to personal development and mentorship responsibilities.
+
+###  Full-time Representative
+
+
+__The Church of Jesus Christ of Latter-day Saints__, London, England   `Jul 2019 – Aug 2021`
+
+- Led 5-7 tours per day, offering informative experiences to individuals, youth groups, and families visiting the Visitors Center.
+- Hosted multiple events with audiences exceeding 100 attendees, ensuring memorable and engaging interactions.
+- Controlled and responded to an average of 30 daily online inquiries, addressing concerns through phone calls and chat support.
+- Collaborated with 8 international representatives, contributing to various work assignments and promoting a global perspective.
+
+## Skills
+
+- Computer Skills: Power Bi, MS Word, Excel, PowerPoint, SQL, R, Python, DAX Language, Tableau.
+- Certifications: Data Science (2024), Business Fundamentals (2024), Marketing Principles Simternship (2023).
+
+
+
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
