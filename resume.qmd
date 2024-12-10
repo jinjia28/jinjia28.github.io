@@ -1,86 +1,86 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jinjia Li's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Full time student of the Brigham Young University - Idaho.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href=" ">li21001@byui.edu </a>
+| <a href=" ">(808)493-7522</a>
+| <a href="http://www.linkedin.com/in/jinjia-li">http://www.linkedin.com/in/jinjia-li</a>
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
+__Brigham Young University - Idaho__, Rexburg, ID `Expected 2024`
 
-`1654-1660`
-__The King's School, Grantham.__
+- Bachelor of Science in Business Finance
+- Minor: Business Analytics & Financial Planning
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Coursework:__
 
-- Sizar
+Intermediate Statistics, Advanced Financial Management, Financial Planning, Advanced Financial Modeling
 
-`1667 - death`
-__Trinity College, Cambridge__
+__Grant & Honor__:
 
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Secured a $13,414 grant from Brigham Young University-Idaho, distributed over two and a half years.
+- Led a team to third place in a school-wide competition by identifying and resolving a student problem, showcasing strong project management and problem-solving abilities. 
 
 
+## Work History
 
-## Publications
+### Data Science Project Manager
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+__Brigham Young University - Idaho__, Rexburg, Idaho `April 2024 - Present`
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Enhanced decision-making and operational efficiency by analyzing and visualizing data across over 18 school departments using Power BI, and creating customized templates for improved data accessibility.
+- Troubleshot and resolved Power BI issues daily, personalizing solutions to meet specific departmental requirements, thereby ensuring continuous operational effectiveness and user satisfaction.
+- Managed the overall team workload by assigning projects based on complexity and team members' strengths, ensuring balanced distribution and optimal performance.
 
 
-## Occupation
+### Finance Intern
 
-`1600`
-__Royal Mint__, London
+__The Church of Jesus Christ of Latter-day Saints Meetinghouse Facilities Department__, Salt Lake City  `Jan 2024 – Apr 2024`
 
-- Warden
-- Minted coins
+- Managed a high volume of work orders, conducting thorough audits of an average of 200 orders each day to uphold financial integrity and regulatory compliance.
+- Collaborated closely with team members, vendors, and category managers, employing effective communication strategies to resolve inquiries and issues effectively within accounts payable and work order processing workflows.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Spreadsheet Analysis Teacher Assistant 
+
+__Brigham Young University - Idaho__, Rexburg, Idaho `Jul 2023 – Dec 2023`
+
+- Graded over 1,000 individually customized excel projects which included Pivot Tables, VLOOKUP, VBA code, SUMIFS, advanced graphs, IF statements, and 50 + more functions and formulas.
+- Implemented a reliable grading system that not only consistently met deadlines but also offered students accurate insights, thereby contributing to a conducive atmosphere for continuous improvement. 
+
+
+
+
+## Service Experience
+
+### Student Mentor
+
+__Heber J. Grand__, Rexburg, Idaho `Aug 2022 – Dec 2022`
+
+- Provided one-on-one support to two freshmen student help students adapting to college life and ensuring a smooth transition.
+- Delivered tailored guidance and resources, ensuring mentees accomplished grades of 70% or higher.
+- Engaged in weekly meetings and exchanges with fellow mentors, contributing to personal development and mentorship responsibilities.
+
+###  Full-time Representative
+
+
+__The Church of Jesus Christ of Latter-day Saints__, London, England   `Jul 2019 – Aug 2021`
+
+- Led 5-7 tours per day, offering informative experiences to individuals, youth groups, and families visiting the Visitors Center.
+- Hosted multiple events with audiences exceeding 100 attendees, ensuring memorable and engaging interactions.
+- Controlled and responded to an average of 30 daily online inquiries, addressing concerns through phone calls and chat support.
+- Collaborated with 8 international representatives, contributing to various work assignments and promoting a global perspective.
+
+## Skills
+
+- Computer Skills: Power Bi, MS Word, Excel, PowerPoint, SQL, R, Python, DAX Language, Tableau.
+- Certifications: Data Science (2024), Business Fundamentals (2024), Marketing Principles Simternship (2023).
+
 
 
 
